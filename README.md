@@ -8,6 +8,6 @@ Requirements: Python installed , flask and pyserial library.<br>
 <br>
 <b>For accessing the webpage outside of the localhost</b> <br>
 4.Download Clouldflare <br>
-Link:https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation<br>
+link: https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation<br>
 5.Open Cmd > go to where ur cloudflare.exe place and enter "clouldflare.exe tunnel -url localhost:80" <br>
 
