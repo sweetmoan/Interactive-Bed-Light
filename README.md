@@ -1,7 +1,5 @@
 # Interactive-Bed-Light
-<b>purposely enable u to control ur bed ligts anywhere!</b> <br>
-
-
+<b>design for u to control ur bed ligts anywhere!</b> <br>
 
 <b>How:</b> <br>
 <b>Requirements:</b> Python installed , flask and pyserial library.<br>
