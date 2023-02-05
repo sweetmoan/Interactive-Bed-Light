@@ -1,7 +1,7 @@
 String incominigByte;
-const int REDPIN = 10;
-const int GREENPIN = 11;
-const int BLUEPIN = 6;
+const int REDPIN = 11;
+const int GREENPIN = 10;
+const int BLUEPIN = 9;
 
 void setup() {
   Serial.begin(9600);
