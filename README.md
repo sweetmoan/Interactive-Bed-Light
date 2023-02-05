@@ -1,6 +1,6 @@
 # Interactive-Bed-Light
 <b>design for u to control ur bed lights anywhere!<br>
-u can modify the script to control various of lights in ur room and have someone to control it for fun. <br>
+u can modify the script to control various of lights or appliances in ur room and have someone to control it for fun. <br>
 inspired by big bang thoery series.</b> <br>
 
 <b>How:</b> <br>
