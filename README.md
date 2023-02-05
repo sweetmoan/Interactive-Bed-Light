@@ -1,6 +1,7 @@
 # Interactive-Bed-Light
-<b>design for u to control ur bed lights anywhere!</b> <br>
-u can modify the script to control various of lights in ur room and have someone to control it for fun.
+<b>design for u to control ur bed lights anywhere!<br>
+u can modify the script to control various of lights in ur room and have someone to control it for fun.</b> <br>
+inspire by bigbangthoery
 
 <b>How:</b> <br>
 <b>Requirements:</b> Python installed , flask and pyserial library.<br>
