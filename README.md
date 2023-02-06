@@ -15,4 +15,4 @@ the curcuit: <br>
 link: https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation<br>
 5)Open Cmd > go to where ur cloudflare.exe place and enter "clouldflare.exe tunnel -url localhost:80" <br>
 
-<br>the App:<br><img src="https://raw.githubusercontent.com/sweetmoan/Interactive-Bed-Light/main/theapp.png" width="500"/>
+<br><b>the App:</b><br><img src="https://raw.githubusercontent.com/sweetmoan/Interactive-Bed-Light/main/theapp.png" width="500"/>
