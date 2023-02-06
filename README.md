@@ -14,4 +14,5 @@ the curcuit: <br>
 4)Download Clouldflare [u can use ngrok if u like]<br>
 link: https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation<br>
 5)Open Cmd > go to where ur cloudflare.exe place and enter "clouldflare.exe tunnel -url localhost:80" <br>
-<br><img src="https://raw.githubusercontent.com/sweetmoan/Interactive-Bed-Light/main/theapp.png" width="500"/>
+
+<br>the App:<br><img src="https://raw.githubusercontent.com/sweetmoan/Interactive-Bed-Light/main/theapp.png" width="500"/>
