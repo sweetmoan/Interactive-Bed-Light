@@ -1,13 +1,12 @@
 # Interactive-Bed-Light
 <b>Design for u to control ur bed lights anywhere!<br>
-u can modify the script to control various of lights in ur room and have someone to control it for fun. <br>
-inspired by big bang thoery series.</b> <br>
+u can modify the script to control various of lights in ur room and have someone to control it for fun.</b> <br>
+inspired by big bang thoery. <br>
 
 <b>How:</b> <br>
 <b>Requirements:</b> Python installed , flask and pyserial library.<br>
 1)To setup , in led_strip.ino upload this code to arduino uno ,view the code and change the variable if you like. <br>
 2)Complete the following curcuit in breadboard that connects led strips to arduino. <br>
-the curcuit: <br>
 3) Run the app.py <br>
 <br>
 <b>to Tunnel the server app [this is to access the web page anywhere]:</b> <br>
