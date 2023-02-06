@@ -1,7 +1,7 @@
 # Interactive-Bed-Light
 <b>Design for u to control ur bed lights anywhere!<br>
 u can modify the script to control various of lights in ur room and have someone to control it for fun.</b> <br>
-inspired by big bang thoery. <br>
+inspired by big bang theory. <br>
 
 <b>How:</b> <br>
 <b>Requirements:</b> Python installed , flask and pyserial library.<br>
